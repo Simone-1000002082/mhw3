@@ -10,7 +10,7 @@ const anime_api_endpoint = 'https://api.aniapi.com/v1/anime';
 
 const client_id = 'b5f17affb0da481da6a48ef2d44d8c87';
 const client_secret = '056380bea19c4188af7578d47a5383e1';
-const album_endpoint = 'https://api.spotify.com/v1/search?type=album&q='
+const album_endpoint = 'https://api.spotify.com/v1/search?type=album&q=anime?'
 let token;
 
 
